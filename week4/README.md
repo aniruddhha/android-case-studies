@@ -12,5 +12,7 @@ Implement the simple app for maintaining salary of an employee
 - Create One Activity and Four Fragments
 - Activity will have empty container, where required fragments would be loaded as needed
 - DashboardFragment,BasicDetailsFragment, SalarDetailsFragment, SalaryCardFrament
+- Used Shared ViewModel
+- Every fragment should have back button, which will load dashboard fragment.
 - See the App wireframes for more details
 
