@@ -1,4 +1,4 @@
-# Android Case Study Week 4
+# Android Case Study Week 6
 Implement the simple app for maintaining salary of an employee
 
 ## Requirements 
